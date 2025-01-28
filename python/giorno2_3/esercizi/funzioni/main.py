@@ -1,4 +1,9 @@
 # Scrivere il codice dell'esercizi qui dentro
+def  mydivmod(a,b):
+    if b == 0:
+        raise ZeroDivisionError("Errore: Non è possibile dividere per zero!")
+    result = (a//b, a%b)
+    return result
 
 def pow_list(seq):
     return [x ** 2 for x in seq]
