@@ -93,3 +93,4 @@ print("Fine programma")
 
 # Bonus: verifico la seguente operazione sui float
 #assert 0.1 + 0.2 == 0.3
+#
