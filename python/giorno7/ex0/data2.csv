@@ -1,0 +1,9 @@
+Name,Surname,Date of Birth,Date of Death,Major Contribution to Computer Science
+Frances,Allen,1932-08-04,2020-08-04,"A pioneer in optimizing compilers, she contributed significantly to program optimization and parallel computing."
+Shafi,Goldwasser,1958-02-14,N/A,Co-inventor of probabilistic encryption and a key figure in cryptographic complexity theory.
+Margaret,Hamilton,1936-08-17,N/A,"Led the team that developed the onboard software for NASA’s Apollo missions, pioneering software engineering as a discipline."
+Grace,Hopper,1906-12-09,1992-01-01,"Developed the first compiler (A-0 System) and was instrumental in the development of COBOL, an early programming language."
+Fei-Fei,Li,1976-04-06,N/A,"A leading researcher in artificial intelligence and computer vision, instrumental in the development of ImageNet."
+Barbara,Liskov,1939-11-07,N/A,Developed the Liskov Substitution Principle and made key contributions to programming language design and software engineering.
+Ada,Lovelace,1815-12-10,1852-11-27,"Wrote the first algorithm intended for implementation on Charles Babbage’s Analytical Engine, making her the first computer programmer."
+Radia,Perlman,1951-01-01,N/A,"Invented the Spanning Tree Protocol (STP), a fundamental network protocol for ensuring loop-free data transmission."
